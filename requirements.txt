@@ -1,4 +1,8 @@
 
 streamlit==1.41.1
-transformers==4.46.3
 torch
+transformers==4.57.1
+tokenizers==0.22.1
+safetensors>=0.4.3
+huggingface-hub>=0.34.0,<1.0
+
